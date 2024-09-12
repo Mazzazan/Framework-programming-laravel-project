@@ -7,6 +7,31 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Webpage Project
+
+Home page
+
+![{42C24F26-CDE3-4D93-99AC-8B89B41768CA}](https://github.com/user-attachments/assets/be49aadb-4dc1-4b6a-92a9-37489921c838)
+Here is the home page after following the tutorial. I used a pre-built template from tailwind called "Stacked layouts" under the Application UI tab. I changed the logo beside the Home tab and changed the profile picture in the top right.
+
+Home page - Mobile view
+![{9B15A9DE-DF3B-4B56-8E04-2D552DD20DAC}](https://github.com/user-attachments/assets/12cdd54e-43df-4468-a8cc-13c18b5cabdd)
+Before clicking the three bar panel
+
+![{43AF3B60-FCBC-4A43-88F1-DF74230AA82A}](https://github.com/user-attachments/assets/bd7bdd14-5526-4aed-b80c-90fa38291b64)
+After clicking the three bar panel. I madesure to change the picture for both the logo and the profile picture however I haven't made changes to the typo I've made in the Home tab. My profile also shows the name of "Tom Cook" and his email, which was from the default template given in the tailwind website.
+
+Blog page
+![{AC142E21-276F-4C23-964B-CA1E68B68BA5}](https://github.com/user-attachments/assets/4027dd68-26ba-4122-b19a-d6cc40030b5d)
+Here is my blog page
+
+
+
+
+
+
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
