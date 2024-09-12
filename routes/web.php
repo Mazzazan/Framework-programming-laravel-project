@@ -8,7 +8,7 @@ Route::get('/', function () {
 
 
 Route::get('/about', function () {
-    return view('about', ['name' => 'Hassan Mohammad Mahsun', 'title' => 'Contact Page']);
+    return view('about', ['name' => 'Hassan Mohammad Mahsun', 'title' => 'About Page']);
 });
 
 Route::get('/blog', function () {
